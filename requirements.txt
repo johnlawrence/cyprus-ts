@@ -1,9 +1,7 @@
 sklearn
 matplotlib
-pickle
 wordcloud
 pandas
 numpy
 nltk
-warnings
 seaborn
