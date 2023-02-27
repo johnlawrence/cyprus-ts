@@ -1,11 +1,9 @@
 sklearn
 matplotlib
-csv
 pickle
 wordcloud
 pandas
 numpy
 nltk
-string
 warnings
 seaborn
